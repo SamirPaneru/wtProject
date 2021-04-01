@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/himalay2/sarthak.himalayand.com/
+    - export DEPLOYPATH=/home/himalay2/sarthak.himalayand.com/public_html/
     - /bin/cp -R * $DEPLOYPATH
