@@ -12,6 +12,6 @@
     
 </style>
 
-<div class='myFooter'>
+<div class='myFooter' id="myFooterId">
     <p>Copyright &copy; TAS</p>
 </div>
