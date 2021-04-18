@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/home_header.css" rel="stylesheet" type="text/css">
 </head>
 <body>
@@ -15,9 +16,7 @@
             <a class="activ" href="about.php">About</a>
             <a class="activ" href="login.php">Login</a>
             <a href="javascript:void(0);" class="icon" onclick="mobToggling();">
-                <div class="bar1"></div>
-                <div class="bar2"></div>
-                <div class="bar3"></div>
+                <i class="fa fa-bars"></i>
             </a>
         </nav>
     </div>
