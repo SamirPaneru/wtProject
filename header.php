@@ -15,7 +15,7 @@
             <a class="activ" href="request.php">Movie Request</a>
             <a class="activ" href="contact.php">Contact</a>
             <a class="activ" href="about.php">About</a>
-            <a class="activ" href="login.php">Login</a>
+            <a class="activ" href="signIn.php">Login</a>
             <a href="javascript:void(0);" class="icon" onclick="mobToggling();">
                 <i class="fa fa-bars"></i>
             </a>
