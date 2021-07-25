@@ -12,7 +12,7 @@
         <nav>
             <a href="" style="display: none;"></a>
             <a class="activ" href="index.php">Home</a>
-            <a class="activ" href="request.php">Movie Request</a>
+            <!-- <a class="activ" href="request.php">Movie Request</a> -->
             <a class="activ" href="contact.php">Contact</a>
             <a class="activ" href="about.php">About</a>
             <a class="activ" href="signIn.php">Login</a>
